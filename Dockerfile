@@ -1,8 +1,7 @@
 # syntax=docker/dockerfile:1
 
 ## Build
-# Using an small alpine image that contains the go compiler
-FROM golang:1.18-alpine AS build
+FROM golang:1.20 AS build
 
 WORKDIR /app
 
