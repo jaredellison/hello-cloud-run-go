@@ -1,4 +1,6 @@
-# go-service-template
+# hello-cloud-run-go
+
+> Bare-bones template for deploying a Go service on GCP's Cloud Run Platform
 
 ## Reference
 
