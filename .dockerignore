@@ -1,0 +1,9 @@
+# Ignore everything by default
+**/*.*
+
+# Allow only the following in container
+# Any Go file
+!**/*.go
+# Go module details
+!go.mod
+!go.sum
